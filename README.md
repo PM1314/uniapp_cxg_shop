@@ -1,37 +1,43 @@
-# uniapp_cxg_shop
+# uni-app 电商模板
 
-#### 介绍
-畅想谷uniapp商城小程序
+自己研究开发的纯uni-app电商前端模板，会不定期更新模板内容，功能，UI界面的。
+#### 如果对您有用 好评哦 (^ω^)
 
-#### 软件架构
-软件架构说明
+## 说明
+1. css部分使用了uni.scss部分变量, 其他语法已剔除特殊语法, 除变量外可直接替换其他css预处理器
+2. app.vue下定义了个别全局样式以及引用iconfont图标
+3. 该项目为前端页面效果展示, 数据和图片来自网络，均只用于案例展示，可以删除，文件在/static/img，请勿用于其他用途。
+## 版本更新说明
 
+#### 1.0.2
+1. 增加登录/注册UI界面
+2. 购物车增加失效商品列表
+3. 购物车细节小调整 
 
-#### 安装教程
+#### 1.0.1 
+1. UI界面适配全面屏，异形屏。
+2. 增加商品详情限时秒杀活动价格展示。
+### 展示码
+![image text](http://static.996ico.cn/static/picture/996shop/qr_code/h5_code.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+**H5版本**
 
-#### 使用说明
+![image text](http://static.996ico.cn/static/picture/996shop/qr_code/app_code.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+**APP版本(仅支持安卓请不要用微信扫码)**
 
-#### 参与贡献
+### 界面展示
+![image text](http://static.996ico.cn/static/picture/996shop/img/home.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![image text](http://static.996ico.cn/static/picture/996shop/img/goods.jpg)
 
+![image text](http://static.996ico.cn/static/picture/996shop/img/show_01.png)
 
-#### 特技
+![image text](http://static.996ico.cn/static/picture/996shop/img/show_02.jpg)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![image text](http://static.996ico.cn/static/picture/996shop/img/show_03.jpg)
+### 其他说明
+- 商城可以用作搭建项目，勿做其他非法用途，切记切记！！
+- UI组件部分使用ColorUI-UniApp 感谢作者 文晓港
+- 如商城遇到部分问题，可以评论留言，我会都看到的
+
