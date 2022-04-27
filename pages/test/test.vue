@@ -15,10 +15,7 @@
 			>
 			</u-cell>
 		</u-cell-group>
-		
 		<u-cell title="点击提示" @click="toastTap()"></u-cell>
-		
-		<uni-countdown :second="60"></uni-countdown>
 	</view>
 </template>
 
